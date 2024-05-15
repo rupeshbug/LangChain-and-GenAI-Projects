@@ -1,0 +1,5 @@
+# Dermatology Question-Answer Dataset: Skin Disease
+
+This dataset is a subset of the Dermatology Question-Answer Dataset available on Kaggle. It contains a random selection of 100 rows from the original dataset.
+
+Original Dataset: [Dermatology Question-Answer Dataset: Skin Disease](https://www.kaggle.com/datasets/muhammadareebkhan/skin-disease-medical-text-data-for-fine-tuning)
